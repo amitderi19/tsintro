@@ -1,8 +1,0 @@
-
-    "dollarRate" , 3.43
-    "euroRate" ,  3.69
-    "shekelRate" ,  1
-    "pesoRate" , 0.019
-    "poundRate" , 4.18
-    "yenRate" , 0.026
-
